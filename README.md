@@ -1,6 +1,11 @@
 # giphy
 
-A new Flutter application.
+Application with Giphy API.
+
+<img src="https://github.com/renamcomn/giphy/blob/master/assets/images/prints/home.png" width="300"></img>
+<img src="https://github.com/renamcomn/giphy/blob/master/assets/images/prints/loading.png" width="300"></img>
+<img src="https://github.com/renamcomn/giphy/blob/master/assets/images/prints/search.png" width="300"></img>
+
 
 ## Getting Started
 
